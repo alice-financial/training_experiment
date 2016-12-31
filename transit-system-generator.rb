@@ -47,21 +47,19 @@ end
 })
 
 def generate_transit_system_csv(size)
-  headers = ["pretax_category_manually_classified", "name", "amount", "date", "banking_category_id", "category"]
+  headers = ["name", "amount", "date", "banking_category_id", "category"]
 
   rows = size.times.map do
-    date = Faker::Date.between(Date.new(2014,1,1), Date.today).to_s
-
     category_hash = [
       { banking_category_id: "22000000", category: "--- - Travel " },
       { banking_category_id: "NA", category: nil }
     ].sample
 
     shape = send(@shape_sampler.sample)
-      .merge({ date: date, pretax_category_manually_classified: "mass_transit" })
+      .merge({ date: Faker::Date.between(Date.new(2014,1,1), Date.today).to_s })
       .merge(category_hash)
 
-    [shape[:pretax_category_manually_classified], shape[:name], shape[:amount], shape[:date], shape[:banking_category_id], shape[:category]]
+    [shape[:name], shape[:amount], shape[:date], shape[:banking_category_id], shape[:category]]
   end
 
   CSV.open(@output_file_name, 'wb+') do |csv|

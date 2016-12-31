@@ -5,6 +5,7 @@ source 'https://rubygems.org'
 gem 'dotenv'
 gem 'google-api-client'
 gem 'googleauth'
+gem 'google_drive'
 
 # transit system generator
 
