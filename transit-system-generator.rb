@@ -3,7 +3,8 @@ require 'date'
 require 'csv'
 require 'weighted_randomizer'
 
-@output_file_name = ARGV.first
+@output_file_name = ARGV[0]
+@number_of_rows = ARGV[1].to_i || 100
 
 # shapes
 
@@ -68,4 +69,4 @@ def generate_transit_system_csv(size)
   end
 end
 
-generate_transit_system_csv(100)
+generate_transit_system_csv(@number_of_rows)
