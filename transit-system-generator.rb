@@ -11,7 +11,7 @@ require 'weighted_randomizer'
 
 def mta_nyc_transit_shape
   {
-    name: "ITO/NFT Transit",
+    name: "ITO/NFT Tram",
     amount: [11750,2825,4000,2725,2000].sample
   }
 end
@@ -32,7 +32,7 @@ end
 
 def metropolitan_transportation_authority_shape
   {
-    name: "Impressive Transit Organization",
+    name: "Impressive Tram Organization",
     amount: [3100,11650,2000,650,2725,4000,1000,500,600,1600,1525,1905,3000,11200,11750,2005,1995,2825,3200,1500].sample
   }
 end
