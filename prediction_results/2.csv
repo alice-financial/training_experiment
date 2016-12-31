@@ -1,101 +1,51 @@
 csv_instance,mass_transit,not_eligible
-"[""Impressive Transit Organization"", ""2005"", ""2015-03-20"", ""NA"", nil]",0.392880,0.607120
-"[""Impressive Transit Organization"", ""3100"", ""2014-09-20"", ""NA"", nil]",0.412367,0.587632
-"[""ITO DVM*Expo/Bundy"", ""2725"", ""2015-01-06"", ""NA"", nil]",0.004576,0.995422
-"[""Impressive Transit Organization"", ""3100"", ""2016-12-07"", ""NA"", nil]",0.283164,0.716835
-"[""CHECKDISK 1539 ITO DVM*Lincoln/Cypress NEW FAKE TOWN HW 89939662112608970155251"", ""2725"", ""2016-03-25"", ""NA"", nil]",0.004433,0.995566
-"[""Impressive Transit Organization"", ""3200"", ""2015-03-15"", ""22000000"", ""--- - Travel ""]",0.411180,0.588820
-"[""Impressive Transit Organization"", ""11650"", ""2015-09-17"", ""NA"", nil]",0.379569,0.620430
-"[""CHECKDISK 4266 ITO DVM*LATTC/Ortho Institute NEW FAKE TOWN HW 53754509545296399532058"", ""2825"", ""2016-04-16"", ""22000000"", ""--- - Travel ""]",0.004693,0.995306
-"[""Impressive Transit Organization"", ""1500"", ""2015-12-16"", ""NA"", nil]",0.395947,0.604053
-"[""Impressive Transit Organization"", ""3100"", ""2015-07-12"", ""NA"", nil]",0.412367,0.587632
-"[""ITO DVM*Highland Park"", ""11750"", ""2016-03-18"", ""22000000"", ""--- - Travel ""]",0.004276,0.995724
-"[""Impressive Transit Organization"", ""3000"", ""2015-05-21"", ""22000000"", ""--- - Travel ""]",0.386360,0.613640
-"[""ITO DVM*Vermont/Beverly"", ""2725"", ""2014-01-25"", ""NA"", nil]",0.005020,0.994978
-"[""ITO DVM*Expo Park/USC"", ""2825"", ""2016-05-26"", ""NA"", nil]",0.003368,0.996630
-"[""Impressive Transit Organization"", ""3000"", ""2014-04-01"", ""22000000"", ""--- - Travel ""]",0.411201,0.588799
-"[""ITO DVM*Long Beach Boulevard"", ""4000"", ""2016-06-09"", ""NA"", nil]",0.004557,0.995442
-"[""ITO/NFT Transit"", ""2725"", ""2016-10-25"", ""22000000"", ""--- - Travel ""]",0.255102,0.744898
-"[""ITO/NFT Transit"", ""2825"", ""2015-06-01"", ""NA"", nil]",0.435121,0.564878
-"[""Impressive Transit Organization"", ""3100"", ""2016-08-02"", ""NA"", nil]",0.318112,0.681887
-"[""Impressive Transit Organization"", ""500"", ""2015-03-15"", ""NA"", nil]",0.412638,0.587362
-"[""ITO DVM*Hawthorne/Lennox"", ""2000"", ""2016-06-06"", ""22000000"", ""--- - Travel ""]",0.004624,0.995376
-"[""Impressive Transit Organization"", ""650"", ""2015-03-15"", ""22000000"", ""--- - Travel ""]",0.411445,0.588555
-"[""Impressive Transit Organization"", ""650"", ""2014-04-08"", ""NA"", nil]",0.412622,0.587377
-"[""ITO DVM*Pacific Avenue"", ""2725"", ""2015-05-01"", ""22000000"", ""--- - Travel ""]",0.005581,0.994419
-"[""Impressive Transit Organization"", ""2005"", ""2015-07-08"", ""NA"", nil]",0.410240,0.589759
-"[""Impressive Transit Organization"", ""2005"", ""2014-08-12"", ""22000000"", ""--- - Travel ""]",0.400987,0.599013
-"[""Impressive Transit Organization"", ""1500"", ""2014-06-20"", ""22000000"", ""--- - Travel ""]",0.409879,0.590121
-"[""Impressive Transit Organization"", ""11200"", ""2014-09-11"", ""22000000"", ""--- - Travel ""]",0.409329,0.590670
-"[""Impressive Transit Organization"", ""4000"", ""2014-02-21"", ""NA"", nil]",0.412274,0.587725
-"[""Impressive Transit Organization"", ""1995"", ""2016-01-18"", ""22000000"", ""--- - Travel ""]",0.349052,0.650948
-"[""CHECKDISK 6790 ITO DVM*Crenshaw NEW FAKE TOWN HW 45175092832671647884009"", ""2000"", ""2016-11-09"", ""22000000"", ""--- - Travel ""]",0.006358,0.993642
-"[""Impressive Transit Organization"", ""1000"", ""2014-02-10"", ""22000000"", ""--- - Travel ""]",0.411409,0.588591
-"[""Impressive Transit Organization"", ""1995"", ""2016-06-18"", ""22000000"", ""--- - Travel ""]",0.399536,0.600464
-"[""Impressive Transit Organization"", ""1500"", ""2015-09-22"", ""22000000"", ""--- - Travel ""]",0.407886,0.592114
-"[""ITO/NFT Transit"", ""4000"", ""2016-01-12"", ""NA"", nil]",0.362076,0.637923
-"[""Impressive Transit Organization"", ""3200"", ""2014-02-22"", ""NA"", nil]",0.412357,0.587642
-"[""Impressive Transit Organization"", ""1525"", ""2014-02-23"", ""NA"", nil]",0.412531,0.587468
-"[""Impressive Transit Organization"", ""500"", ""2014-09-19"", ""22000000"", ""--- - Travel ""]",0.410641,0.589359
-"[""Impressive Transit Organization"", ""650"", ""2015-06-27"", ""22000000"", ""--- - Travel ""]",0.411445,0.588555
-"[""Impressive Transit Organization"", ""11750"", ""2016-02-01"", ""22000000"", ""--- - Travel ""]",0.313756,0.686244
-"[""CHECKDISK 9091 ITO DVM*Southwest Museum NEW FAKE TOWN HW 38560499196261791021565"", ""2725"", ""2016-05-21"", ""22000000"", ""--- - Travel ""]",0.004390,0.995610
-"[""Impressive Transit Organization"", ""3200"", ""2015-12-14"", ""NA"", nil]",0.398704,0.601295
-"[""ITO DVM*LATTC/Ortho Institute"", ""4000"", ""2016-01-27"", ""22000000"", ""--- - Travel ""]",0.003753,0.996247
-"[""Impressive Transit Organization"", ""3200"", ""2016-03-02"", ""NA"", nil]",0.357931,0.642068
-"[""Impressive Transit Organization"", ""1500"", ""2014-11-01"", ""22000000"", ""--- - Travel ""]",0.411357,0.588643
-"[""ITO DVM*La Cienega/Jefferson"", ""2825"", ""2016-05-16"", ""NA"", nil]",0.024423,0.975575
-"[""Impressive Transit Organization"", ""2825"", ""2014-06-28"", ""22000000"", ""--- - Travel ""]",0.411219,0.588781
-"[""CHECKDISK 4187 ITO DVM*5th Street5th Street NEW FAKE TOWN HW 17228384381931822380187"", ""4000"", ""2014-12-03"", ""NA"", nil]",0.004275,0.995724
-"[""CHECKDISK 4132 ITO DVM*Wilshire/Western NEW FAKE TOWN HW 30131238249896506099445"", ""2000"", ""2014-12-27"", ""22000000"", ""--- - Travel ""]",0.005088,0.994912
-"[""Impressive Transit Organization"", ""3100"", ""2015-06-11"", ""NA"", nil]",0.386978,0.613021
-"[""Impressive Transit Organization"", ""3000"", ""2014-07-27"", ""22000000"", ""--- - Travel ""]",0.411201,0.588799
-"[""CHECKDISK 3340 ITO DVM*Artesia NEW FAKE TOWN HW 44051670573320111799671"", ""2725"", ""2014-06-01"", ""NA"", nil]",0.005111,0.994888
-"[""Impressive Transit Organization"", ""11650"", ""2015-05-04"", ""NA"", nil]",0.354848,0.645152
-"[""Impressive Transit Organization"", ""500"", ""2015-01-11"", ""NA"", nil]",0.412638,0.587362
-"[""Impressive Transit Organization"", ""500"", ""2016-10-05"", ""NA"", nil]",0.360029,0.639970
-"[""Impressive Transit Organization"", ""500"", ""2014-04-16"", ""NA"", nil]",0.412638,0.587362
-"[""ITO DVM*Union Station"", ""11750"", ""2016-08-22"", ""22000000"", ""--- - Travel ""]",0.002575,0.997425
-"[""ITO DVM*Civic Center/Grand Park"", ""2725"", ""2015-12-16"", ""NA"", nil]",0.004391,0.995608
-"[""Impressive Transit Organization"", ""2005"", ""2014-12-29"", ""22000000"", ""--- - Travel ""]",0.370818,0.629182
-"[""Impressive Transit Organization"", ""3000"", ""2015-08-23"", ""NA"", nil]",0.412378,0.587621
-"[""ITO DVM*Atlantic"", ""11750"", ""2014-03-09"", ""NA"", nil]",0.005001,0.994998
-"[""ITO/NFT Transit"", ""2825"", ""2015-03-31"", ""22000000"", ""--- - Travel ""]",0.390073,0.609927
-"[""Impressive Transit Organization"", ""3200"", ""2015-03-17"", ""NA"", nil]",0.388717,0.611282
-"[""Impressive Transit Organization"", ""1600"", ""2016-07-07"", ""22000000"", ""--- - Travel ""]",0.337401,0.662599
-"[""Impressive Transit Organization"", ""4000"", ""2016-03-25"", ""22000000"", ""--- - Travel ""]",0.376951,0.623049
-"[""ITO DVM*7th Street/Metro Center"", ""2825"", ""2016-10-27"", ""NA"", nil]",0.006000,0.993998
-"[""Impressive Transit Organization"", ""1905"", ""2016-05-01"", ""22000000"", ""--- - Travel ""]",0.430454,0.569546
-"[""CHECKDISK 2459 ITO DVM*Arcadia NEW FAKE TOWN HW 48423667368459014669689"", ""2825"", ""2016-08-25"", ""NA"", nil]",0.003856,0.996144
-"[""CHECKDISK 4639 ITO DVM*Downtown Santa Monica NEW FAKE TOWN HW 49239848389764472647567"", ""11750"", ""2016-07-30"", ""22000000"", ""--- - Travel ""]",0.004720,0.995280
-"[""ITO DVM*LATTC/Ortho Institute"", ""2725"", ""2016-07-07"", ""NA"", nil]",0.003663,0.996336
-"[""CHECKDISK 6328 ITO DVM*7th Street/Metro Center NEW FAKE TOWN HW 79125954096993579233756"", ""2000"", ""2014-06-19"", ""NA"", nil]",0.004453,0.995546
-"[""Impressive Transit Organization"", ""1525"", ""2014-01-17"", ""22000000"", ""--- - Travel ""]",0.411354,0.588646
-"[""ITO DVM*Anaheim Street"", ""2825"", ""2015-07-30"", ""NA"", nil]",0.003703,0.996295
-"[""ITO DVM*Allen"", ""2000"", ""2016-08-06"", ""NA"", nil]",0.004987,0.995012
-"[""CHECKDISK 4929 ITO DVM*APU/Citrus College NEW FAKE TOWN HW 13272778330674274772358"", ""11750"", ""2016-12-05"", ""22000000"", ""--- - Travel ""]",0.004235,0.995764
-"[""CHECKDISK 5167 ITO DVM*Memorial Park NEW FAKE TOWN HW 50933178206355455412390"", ""2725"", ""2014-08-06"", ""22000000"", ""--- - Travel ""]",0.004691,0.995309
-"[""ITO DVM*Avalon"", ""2000"", ""2016-01-13"", ""22000000"", ""--- - Travel ""]",0.004192,0.995808
-"[""Impressive Transit Organization"", ""600"", ""2014-12-18"", ""NA"", nil]",0.433428,0.566571
-"[""Impressive Transit Organization"", ""3000"", ""2015-05-15"", ""22000000"", ""--- - Travel ""]",0.391632,0.608368
-"[""Impressive Transit Organization"", ""3200"", ""2015-06-11"", ""NA"", nil]",0.386968,0.613031
-"[""Impressive Transit Organization"", ""11200"", ""2014-11-23"", ""22000000"", ""--- - Travel ""]",0.410349,0.589651
-"[""ITO DVM*Hollywood/Vine"", ""2825"", ""2016-04-16"", ""NA"", nil]",0.004632,0.995367
-"[""Impressive Transit Organization"", ""500"", ""2016-07-28"", ""NA"", nil]",0.375146,0.624853
-"[""ITO DVM*Sierra Madre Villa"", ""2825"", ""2015-08-01"", ""22000000"", ""--- - Travel ""]",0.004975,0.995025
-"[""ITO/NFT Transit"", ""2825"", ""2015-10-22"", ""22000000"", ""--- - Travel ""]",0.407018,0.592982
-"[""Impressive Transit Organization"", ""2725"", ""2016-11-07"", ""NA"", nil]",0.291956,0.708044
-"[""Impressive Transit Organization"", ""1905"", ""2015-12-22"", ""NA"", nil]",0.389294,0.610705
-"[""Impressive Transit Organization"", ""11750"", ""2015-08-24"", ""22000000"", ""--- - Travel ""]",0.439435,0.560565
-"[""Impressive Transit Organization"", ""2725"", ""2014-08-08"", ""NA"", nil]",0.412406,0.587593
-"[""Impressive Transit Organization"", ""500"", ""2016-07-29"", ""NA"", nil]",0.373378,0.626621
-"[""Impressive Transit Organization"", ""2005"", ""2014-07-09"", ""NA"", nil]",0.411665,0.588335
-"[""Impressive Transit Organization"", ""3000"", ""2015-10-26"", ""NA"", nil]",0.438479,0.561520
-"[""ITO/NFT Transit"", ""11750"", ""2014-02-25"", ""NA"", nil]",0.411468,0.588531
-"[""Impressive Transit Organization"", ""1905"", ""2016-12-18"", ""22000000"", ""--- - Travel ""]",0.411314,0.588685
-"[""CHECKDISK 7584 ITO DVM*Anaheim Street NEW FAKE TOWN HW 42999878577433169160185"", ""11750"", ""2014-06-23"", ""NA"", nil]",0.004206,0.995793
-"[""Impressive Transit Organization"", ""11200"", ""2015-07-25"", ""NA"", nil]",0.408749,0.591251
-"[""ITO/NFT Transit"", ""2825"", ""2014-04-10"", ""22000000"", ""--- - Travel ""]",0.411219,0.588781
-"[""ITO DVM*Compton"", ""2725"", ""2015-01-17"", ""NA"", nil]",0.005020,0.994978
-"[""Impressive Transit Organization"", ""1500"", ""2016-06-28"", ""22000000"", ""--- - Travel ""]",0.382774,0.617226
-"[""Impressive Transit Organization"", ""500"", ""2016-09-22"", ""22000000"", ""--- - Travel ""]",0.590507,0.409493
+"[""ITO/NFT Tram"", ""2825"", ""2015-07-11"", ""22000000"", ""--- - Travel ""]",0.004898,0.995102
+"[""Impressive Tram Organization"", ""1000"", ""2015-04-02"", ""NA"", nil]",0.005009,0.994990
+"[""CHECKDISK 7573 ITO DVM*17th Street/Santa Monica College NEW FAKE TOWN HW 64896095483950278420975"", ""2725"", ""2015-12-09"", ""NA"", nil]",0.004783,0.995216
+"[""Impressive Tram Organization"", ""11200"", ""2014-08-28"", ""22000000"", ""--- - Travel ""]",0.004960,0.995040
+"[""ITO/NFT Tram"", ""2825"", ""2016-06-15"", ""NA"", nil]",0.003727,0.996271
+"[""Impressive Tram Organization"", ""1995"", ""2014-07-23"", ""22000000"", ""--- - Travel ""]",0.004932,0.995067
+"[""Impressive Tram Organization"", ""1600"", ""2016-06-06"", ""NA"", nil]",0.004647,0.995351
+"[""CHECKDISK 4031 ITO DVM*Crenshaw NEW FAKE TOWN HW 95164051890999515166211"", ""2825"", ""2014-10-13"", ""NA"", nil]",0.005111,0.994888
+"[""ITO DVM*Indiana"", ""2825"", ""2016-04-23"", ""22000000"", ""--- - Travel ""]",0.004570,0.995430
+"[""ITO DVM*Allen"", ""2825"", ""2014-03-28"", ""NA"", nil]",0.005020,0.994978
+"[""ITO DVM*Expo/Bundy"", ""2000"", ""2015-01-30"", ""NA"", nil]",0.004843,0.995156
+"[""Impressive Tram Organization"", ""500"", ""2016-07-18"", ""22000000"", ""--- - Travel ""]",0.004500,0.995500
+"[""ITO/NFT Tram"", ""2825"", ""2014-04-05"", ""NA"", nil]",0.005020,0.994978
+"[""ITO/NFT Tram"", ""4000"", ""2015-07-12"", ""NA"", nil]",0.005017,0.994981
+"[""Impressive Tram Organization"", ""4000"", ""2015-11-10"", ""22000000"", ""--- - Travel ""]",0.003892,0.996108
+"[""Impressive Tram Organization"", ""500"", ""2015-12-02"", ""NA"", nil]",0.004586,0.995413
+"[""ITO DVM*26th Street/Bergamot"", ""4000"", ""2015-07-21"", ""NA"", nil]",0.004710,0.995288
+"[""Impressive Tram Organization"", ""1905"", ""2016-01-20"", ""22000000"", ""--- - Travel ""]",0.003351,0.996648
+"[""ITO DVM*Palms"", ""11750"", ""2014-08-21"", ""NA"", nil]",0.004984,0.995015
+"[""ITO DVM*17th Street/Santa Monica College"", ""2725"", ""2014-01-16"", ""NA"", nil]",0.005020,0.994978
+"[""ITO DVM*Downtown Long Beach"", ""2725"", ""2016-10-24"", ""NA"", nil]",0.001931,0.998068
+"[""ITO DVM*Lake"", ""2825"", ""2014-11-07"", ""22000000"", ""--- - Travel ""]",0.004719,0.995280
+"[""Impressive Tram Organization"", ""11200"", ""2014-09-14"", ""NA"", nil]",0.005002,0.994996
+"[""Impressive Tram Organization"", ""3200"", ""2014-08-31"", ""22000000"", ""--- - Travel ""]",0.004995,0.995005
+"[""Impressive Tram Organization"", ""11750"", ""2015-09-18"", ""22000000"", ""--- - Travel ""]",0.004559,0.995441
+"[""ITO DVM*Wilshire/Vermont"", ""11750"", ""2016-09-06"", ""NA"", nil]",0.013120,0.986879
+"[""CHECKDISK 8661 ITO DVM*Norwalk NEW FAKE TOWN HW 64581602005527653290287"", ""11750"", ""2016-08-15"", ""22000000"", ""--- - Travel ""]",0.052785,0.947215
+"[""ITO DVM*Arcadia"", ""2000"", ""2015-06-12"", ""NA"", nil]",0.004894,0.995104
+"[""Impressive Tram Organization"", ""2000"", ""2014-04-03"", ""NA"", nil]",0.005022,0.994977
+"[""ITO/NFT Tram"", ""2725"", ""2016-08-30"", ""22000000"", ""--- - Travel ""]",0.004174,0.995826
+"[""CHECKDISK 2395 ITO DVM*Chinatown NEW FAKE TOWN HW 53593973232280914291710"", ""11750"", ""2014-11-17"", ""NA"", nil]",0.004191,0.995808
+"[""Impressive Tram Organization"", ""3100"", ""2016-09-13"", ""NA"", nil]",0.033800,0.966198
+"[""Impressive Tram Organization"", ""11650"", ""2015-04-04"", ""NA"", nil]",0.004965,0.995033
+"[""ITO DVM*Washington"", ""11750"", ""2015-11-18"", ""NA"", nil]",0.004935,0.995064
+"[""ITO DVM*Mariachi Plaza"", ""2825"", ""2016-11-09"", ""22000000"", ""--- - Travel ""]",0.006200,0.993800
+"[""ITO DVM*Lincoln/Cypress"", ""2825"", ""2015-07-24"", ""22000000"", ""--- - Travel ""]",0.005215,0.994785
+"[""ITO/NFT Tram"", ""2000"", ""2016-02-26"", ""NA"", nil]",0.004720,0.995279
+"[""ITO DVM*Pico"", ""2725"", ""2016-09-17"", ""NA"", nil]",0.004859,0.995140
+"[""Impressive Tram Organization"", ""11200"", ""2016-07-11"", ""22000000"", ""--- - Travel ""]",0.003122,0.996878
+"[""ITO DVM*Crenshaw"", ""2725"", ""2016-01-13"", ""22000000"", ""--- - Travel ""]",0.004191,0.995809
+"[""ITO DVM*Heritage Square"", ""2725"", ""2015-11-30"", ""22000000"", ""--- - Travel ""]",0.003641,0.996359
+"[""ITO DVM*Universal City/Studio City"", ""2825"", ""2015-10-20"", ""22000000"", ""--- - Travel ""]",0.001374,0.998626
+"[""Impressive Tram Organization"", ""3100"", ""2014-04-15"", ""NA"", nil]",0.005019,0.994979
+"[""Impressive Tram Organization"", ""3200"", ""2014-10-19"", ""22000000"", ""--- - Travel ""]",0.004995,0.995005
+"[""Impressive Tram Organization"", ""2725"", ""2015-07-02"", ""22000000"", ""--- - Travel ""]",0.004590,0.995410
+"[""Impressive Tram Organization"", ""3100"", ""2014-10-04"", ""NA"", nil]",0.005019,0.994979
+"[""Impressive Tram Organization"", ""1905"", ""2015-10-02"", ""22000000"", ""--- - Travel ""]",0.004151,0.995849
+"[""CHECKDISK 3472 ITO DVM*26th Street/Bergamot NEW FAKE TOWN HW 59402886210753379273180"", ""11750"", ""2014-08-12"", ""NA"", nil]",0.004880,0.995120
+"[""ITO/NFT Tram"", ""2000"", ""2015-12-05"", ""22000000"", ""--- - Travel ""]",0.005803,0.994197
+"[""ITO DVM*Indiana"", ""4000"", ""2015-12-19"", ""NA"", nil]",0.006140,0.993858
