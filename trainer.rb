@@ -38,6 +38,7 @@ end
 def prediction_results_for(rows)
   puts "fetching prediction results for our test data ..."
   rows.map do |row|
+    sleep(1)
     input = Google::Apis::PredictionV1_6::Input::Input.new({ csv_instance: row })
     input_object = Google::Apis::PredictionV1_6::Input.new({ input: input })
     response = @service.predict_trained_model(@project, @model, input_object)
