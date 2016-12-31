@@ -11,17 +11,22 @@ credentials = ::Google::Auth::ServiceAccountCredentials.make_creds(scope: scopes
 @service = ::Google::Apis::PredictionV1_6::PredictionService.new
 @service.authorization = credentials
 @project = 'alice-ml'
-@model = 'data-doge-model-9'
+@model = 'data-doge-model-11'
+@training_chunk_size = 50
+@experiment_number = 3
 
 # helpers
 
-def train_model_with!(row)
-  update_object = Google::Apis::PredictionV1_6::Update.new({
-    csv_instance: row,
-    output: "mass_transit"
-  })
-  @service.update_trained_model(@project, @model, update_object)
-  puts "added row to model for training: #{row}!"
+def train_model_with!(chunk_of_training_rows)
+  chunk_of_training_rows.each do |row|
+    update_object = Google::Apis::PredictionV1_6::Update.new({
+      csv_instance: row,
+      output: "mass_transit"
+    })
+    @service.update_trained_model(@project, @model, update_object)
+    puts "added row to model for training: #{row}!"
+    sleep(1)
+  end
 end
 
 def wait_while_model_updates!
@@ -68,7 +73,7 @@ def send_averaged_prediction_results_to_google_spreadsheet!(prediction_results, 
   puts "saving averaged prediction results to google spreadsheet!"
   session = GoogleDrive::Session.from_service_account_key("service_account_config.json")
   spreadsheet = session.spreadsheet_by_key(ENV["SPREADSHEET_KEY"])
-  worksheet = spreadsheet.worksheets[1]
+  worksheet = spreadsheet.worksheets.last
   worksheet.insert_rows(worksheet.num_rows + 1, [[
     n,
     prediction_results.inject(0) { |sum, result| sum + result[:mass_transit].to_f } / prediction_results.length,
@@ -82,12 +87,12 @@ end
 training_rows = CSV.read('./training.csv')[1..-1]
 testing_rows = CSV.read('./testing.csv')[1..-1]
 
-training_rows.each_with_index do |training_row, i|
-  n = i + 1
+training_rows.each_slice(@training_chunk_size).to_a.each_with_index do |chunk_of_training_rows, i|
+  n = (i + 1) * @training_chunk_size
   puts "n = #{n}"
-  train_model_with!(training_row)
+  train_model_with!(chunk_of_training_rows)
   wait_while_model_updates!
   prediction_results = prediction_results_for(testing_rows)
-  save_prediction_results_to_csv!(prediction_results, "./prediction_results/#{n}.csv")
+  save_prediction_results_to_csv!(prediction_results, "./prediction_results/experiment_#{@experiment_number}/#{n}.csv")
   send_averaged_prediction_results_to_google_spreadsheet!(prediction_results, n)
 end
