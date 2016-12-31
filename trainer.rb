@@ -11,7 +11,7 @@ credentials = ::Google::Auth::ServiceAccountCredentials.make_creds(scope: scopes
 @service = ::Google::Apis::PredictionV1_6::PredictionService.new
 @service.authorization = credentials
 @project = 'alice-ml'
-@model = 'data-doge-model-7'
+@model = 'data-doge-model-9'
 
 # helpers
 
@@ -68,7 +68,7 @@ def send_averaged_prediction_results_to_google_spreadsheet!(prediction_results, 
   puts "saving averaged prediction results to google spreadsheet!"
   session = GoogleDrive::Session.from_service_account_key("service_account_config.json")
   spreadsheet = session.spreadsheet_by_key(ENV["SPREADSHEET_KEY"])
-  worksheet = spreadsheet.worksheets.first
+  worksheet = spreadsheet.worksheets[1]
   worksheet.insert_rows(worksheet.num_rows + 1, [[
     n,
     prediction_results.inject(0) { |sum, result| sum + result[:mass_transit].to_f } / prediction_results.length,
